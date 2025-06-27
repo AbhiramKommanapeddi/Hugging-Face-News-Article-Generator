@@ -1,0 +1,30 @@
+{
+  "generation_timestamp": "2025-06-27T21:49:02.449741",
+  "summary": {
+    "total_articles_generated": 0,
+    "total_words": 0,
+    "average_article_length": 0,
+    "articles_by_style": {
+      "news": 0,
+      "blog": 0,
+      "social": 0,
+      "newsletter": 0
+    },
+    "average_quality_score": 0,
+    "average_fact_check_score": 0,
+    "average_style_compliance": 0
+  },
+  "detailed_statistics": {
+    "quality_scores": {
+      "min": 0,
+      "max": 0,
+      "median": 0
+    },
+    "fact_check_scores": {
+      "min": 0,
+      "max": 0,
+      "median": 0
+    }
+  },
+  "articles": []
+}

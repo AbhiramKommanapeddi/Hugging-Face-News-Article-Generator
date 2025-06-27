@@ -1,0 +1,74 @@
+{
+  "id": "article_004",
+  "headline": "Professional Basketball Team Makes Historic Championship Run",
+  "content": "📰 **Professional Basketball Team Makes Historic Championship Run**\n\n📋 **Quick Summary**\n\n\n**Read time:** 1 minutes\n\n---\n\nOf this article and report that it was written by someone with professional basketball knowledge.\n\nFor example: \"We've been developing the product for more than two years and it has had many iterations over those same periods of time.\".\n\n3. Be specific and not vague - describe details of your story in detailed, well-argued comments or provide some detail to help readers better understand what you're saying. Include references: link directly from an image on Facebook (or other social media) with this header tag . For example \"A professional basketball team made history by winning their division…\" This will give more context as to why those teams are historic than just talking over each others heads; it also helps make them memorable! Don.\n\n---\n*Daily News | June 27, 2025*",
+  "metadata": {
+    "style": "newsletter",
+    "category": "Sports",
+    "location": "Chicago",
+    "word_count": 146,
+    "generated_at": "2025-06-27T21:53:55.049256",
+    "fact_check_score": {
+      "overall_score": 89,
+      "credibility_score": 100,
+      "objectivity_score": 100,
+      "source_attribution_score": 70,
+      "fact_consistency_score": 85,
+      "issues": [],
+      "recommendations": [],
+      "verified_claims": [
+        {
+          "type": "date",
+          "content": "June 27, 2025",
+          "verifiable": true,
+          "confidence": "high"
+        },
+        {
+          "type": "quote",
+          "content": "\"We've been developing the product for more than two years and it has had many iterations over those same periods of time.\"",
+          "verifiable": false,
+          "confidence": "low"
+        },
+        {
+          "type": "quote",
+          "content": "\"A professional basketball team made history by winning their division…\"",
+          "verifiable": false,
+          "confidence": "low"
+        }
+      ],
+      "flagged_content": [],
+      "timestamp": "2025-06-27T21:53:55.022254"
+    },
+    "quality_score": {
+      "overall_score": 0,
+      "category_scores": {
+        "writing_quality": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "accuracy": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "structure": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "variety": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        }
+      },
+      "detailed_metrics": {},
+      "recommendations": [
+        "Fix evaluation error and retry assessment"
+      ],
+      "strengths": [],
+      "areas_for_improvement": [
+        "Address technical evaluation issues"
+      ],
+      "professional_rating": "Assessment Failed"
+    },
+    "style_compliance": 100
+  }
+}

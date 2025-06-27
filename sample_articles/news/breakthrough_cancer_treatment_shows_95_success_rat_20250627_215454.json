@@ -1,0 +1,62 @@
+{
+  "id": "article_005",
+  "headline": "Breakthrough Cancer Treatment Shows 95% Success Rate",
+  "content": "By NEWS WIRE SERVICES\nPublished: June 27, 2025 at 09:54 PM\n\n(236 words)\n\nWASHINGTON - Is not random (source) (Source): This article states that several high-profile patients have developed remission after receiving this treatment. However, none of those who received it since then has been able to recover from cancer surgery and chemotherapy without major complications or relapse symptoms such as weight loss/weight gain , nausea like vomiting / abdominal pain etc., although they are still at risk for recurrence . [seven] These individuals should be offered access by any doctor with proper training on how best get them into recovery mode via their own individual plan based around providing medical care through diet, supplements ...\n\nThe update to the API specification was released on March eight, 2016 and is available here . We are still working hard with existing developers in order for them not only read through the code but also implement it as well as provide feedback via our issues tracker !\n\nAcknowledge your readership, ask them to share their blog posts with friends and family or post links on social media sites (Twitter | Facebook) so they can learn more . It helps if you also provide some relevant background information - e-mail address , phone number etc., but don't be afraid of providing details in an online bio like this one which explains how cancer treatment works: \"Cancer treatments are being developed all around us every day as new therapeutic targets have been identified – it.",
+  "metadata": {
+    "style": "news",
+    "category": "Health",
+    "location": "Los Angeles",
+    "word_count": 251,
+    "generated_at": "2025-06-27T21:54:54.755197",
+    "fact_check_score": {
+      "overall_score": 89,
+      "credibility_score": 100,
+      "objectivity_score": 100,
+      "source_attribution_score": 70,
+      "fact_consistency_score": 85,
+      "issues": [],
+      "recommendations": [],
+      "verified_claims": [
+        {
+          "type": "date",
+          "content": "June 27, 2025",
+          "verifiable": true,
+          "confidence": "high"
+        }
+      ],
+      "flagged_content": [],
+      "timestamp": "2025-06-27T21:54:54.723196"
+    },
+    "quality_score": {
+      "overall_score": 0,
+      "category_scores": {
+        "writing_quality": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "accuracy": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "structure": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "variety": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        }
+      },
+      "detailed_metrics": {},
+      "recommendations": [
+        "Fix evaluation error and retry assessment"
+      ],
+      "strengths": [],
+      "areas_for_improvement": [
+        "Address technical evaluation issues"
+      ],
+      "professional_rating": "Assessment Failed"
+    },
+    "style_compliance": 100
+  }
+}

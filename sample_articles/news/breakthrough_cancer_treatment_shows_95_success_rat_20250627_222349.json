@@ -1,0 +1,53 @@
+{
+  "id": "article_005",
+  "headline": "Breakthrough Cancer Treatment Shows 95% Success Rate",
+  "content": "By NEWS WIRE SERVICES\nPublished: June 27, 2025 at 10:23 PM\n\n(184 words)\n\nWASHINGTON - Of Phase two/three clinical trial to treat early-stage pancreatic cancer one) New drug targets an enzyme that produces excess beta carotene and converts it into vitamin A. The research shows 75 percent, 99 % or 100%. There are no known side effects from this new treatment option on bone health; we believe patients should be aware of such possible risks at every stage of their disease process.\n\nI have been in contact with the NSA and its lawyers who are assisting me to get answers on what is going through their heads regarding my case. They will tell you that they cannot comment as it's classified but can say some things about how these programs work - so if people know anything then please share them below or email [email protected] . The UAW has already filed an amicus brief which includes many of the same arguments discussed above (including legal language) for reasons related both directly & indirectly towards resolving your challenges: http://www...y@npswf.\n\n\"I'm sure you'll find this useful,\" writes one reader, \"to help others get started in their own clinical trials.\" <!--iframe-->.",
+  "metadata": {
+    "style": "news",
+    "category": "Health",
+    "location": "Los Angeles",
+    "word_count": 199,
+    "generated_at": "2025-06-27T22:23:49.833959",
+    "fact_check_score": {
+      "overall_score": 84,
+      "credibility_score": 100,
+      "objectivity_score": 100,
+      "source_attribution_score": 50,
+      "fact_consistency_score": 85,
+      "issues": [],
+      "recommendations": [
+        "Add more specific source attributions. Use names, titles, and organizations when possible."
+      ],
+      "verified_claims": [
+        {
+          "type": "statistic",
+          "content": "100%",
+          "verifiable": true,
+          "confidence": "medium"
+        },
+        {
+          "type": "date",
+          "content": "June 27, 2025",
+          "verifiable": true,
+          "confidence": "high"
+        },
+        {
+          "type": "quote",
+          "content": "\"I'm sure you'll find this useful,\"",
+          "verifiable": false,
+          "confidence": "low"
+        },
+        {
+          "type": "quote",
+          "content": "\"to help others get started in their own clinical trials.\"",
+          "verifiable": false,
+          "confidence": "low"
+        }
+      ],
+      "flagged_content": [],
+      "timestamp": "2025-06-27T22:23:49.816973"
+    },
+    "quality_score": 0,
+    "style_compliance": 100
+  }
+}

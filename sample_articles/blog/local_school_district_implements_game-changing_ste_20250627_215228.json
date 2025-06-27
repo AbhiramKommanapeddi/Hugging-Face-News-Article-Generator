@@ -1,0 +1,62 @@
+{
+  "id": "article_002",
+  "headline": "Local School District Implements Game-Changing STEM Program",
+  "content": "# Local School District Implements Game-Changing STEM Program\n\n*Published on June 27, 2025*\n\n**Of tech programs at several local schools and that this technology will be utilized to support students from low socioeconomic backgrounds. The following are some examples of how Silicon Valley is changing our lives by investing heavily into education… You can learn more about what's happening with TechTown USA here .**\n\n\n\n## Final Thoughts\n\n\n\n**Tags:** #program, #game, #school, #implementation, #district\n\n**Reading time:** 1 minute\n\n---\n\n*Did you find this article helpful? Share it with your network!*\n",
+  "metadata": {
+    "style": "blog",
+    "category": "Education",
+    "location": "San Francisco",
+    "word_count": 89,
+    "generated_at": "2025-06-27T21:52:28.234796",
+    "fact_check_score": {
+      "overall_score": 89,
+      "credibility_score": 100,
+      "objectivity_score": 100,
+      "source_attribution_score": 70,
+      "fact_consistency_score": 85,
+      "issues": [],
+      "recommendations": [],
+      "verified_claims": [
+        {
+          "type": "date",
+          "content": "June 27, 2025",
+          "verifiable": true,
+          "confidence": "high"
+        }
+      ],
+      "flagged_content": [],
+      "timestamp": "2025-06-27T21:52:28.230802"
+    },
+    "quality_score": {
+      "overall_score": 0,
+      "category_scores": {
+        "writing_quality": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "accuracy": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "structure": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "variety": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        }
+      },
+      "detailed_metrics": {},
+      "recommendations": [
+        "Fix evaluation error and retry assessment"
+      ],
+      "strengths": [],
+      "areas_for_improvement": [
+        "Address technical evaluation issues"
+      ],
+      "professional_rating": "Assessment Failed"
+    },
+    "style_compliance": 100
+  }
+}

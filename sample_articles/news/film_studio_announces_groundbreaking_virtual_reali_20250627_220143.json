@@ -1,0 +1,62 @@
+{
+  "id": "article_013",
+  "headline": "Film Studio Announces Groundbreaking Virtual Reality Experience",
+  "content": "By NEWS WIRE SERVICES\nPublished: June 27, 2025 at 10:01 PM\n\n(88 words)\n\nWASHINGTON - Of virtual reality, including MIT's VR Labs.\n\nA recent report from the UPA government shows that around five% of hospitals are unable to secure patient care and staff for patients with HIV/AIDS….\n\nThis is an open-access research paper, free of any strings attached, so you are welcome to share it in whole or part with anyone else; please contact me when using this data and cite as: Caulfield J (2016) VR video production technology – A case study from ARKit development at ILM Paris.\" In Press… Full description.",
+  "metadata": {
+    "style": "news",
+    "category": "Environment",
+    "location": "Boston",
+    "word_count": 103,
+    "generated_at": "2025-06-27T22:01:43.831281",
+    "fact_check_score": {
+      "overall_score": 89,
+      "credibility_score": 100,
+      "objectivity_score": 100,
+      "source_attribution_score": 70,
+      "fact_consistency_score": 85,
+      "issues": [],
+      "recommendations": [],
+      "verified_claims": [
+        {
+          "type": "date",
+          "content": "June 27, 2025",
+          "verifiable": true,
+          "confidence": "high"
+        }
+      ],
+      "flagged_content": [],
+      "timestamp": "2025-06-27T22:01:43.827275"
+    },
+    "quality_score": {
+      "overall_score": 0,
+      "category_scores": {
+        "writing_quality": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "accuracy": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "structure": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "variety": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        }
+      },
+      "detailed_metrics": {},
+      "recommendations": [
+        "Fix evaluation error and retry assessment"
+      ],
+      "strengths": [],
+      "areas_for_improvement": [
+        "Address technical evaluation issues"
+      ],
+      "professional_rating": "Assessment Failed"
+    },
+    "style_compliance": 100
+  }
+}

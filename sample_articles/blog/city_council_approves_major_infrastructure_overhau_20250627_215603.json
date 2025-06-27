@@ -1,0 +1,76 @@
+{
+  "id": "article_006",
+  "headline": "City Council Approves Major Infrastructure Overhaul Project",
+  "content": "# City Council Approves Major Infrastructure Overhaul Project\n\n*Published on June 27, 2025*\n\n**Was approved by Mayor Ed Murray (no reference to council) at meeting on Thursday, July 30th. City of Olympia had previously rejected another proposed city-wide project based around this event; Rent control and affordable housing program is now under contract with developer The redevelopment will feature new multiuse streetscape improvements including an elevated bike path along Broadway between University Avenue West North/East Burnside Street and Washington Way South as well sidewalks running from Eastwood Boulevard up Pine Drive NW near Union Square Park To further emphasize that demolition would occur \"soon\", we encourage you click upon here where additional information about events over the past year can be found https://www...**\n\nBut now is the best time to send emails and/or call it quits: The developers are currently working on implementing all of their major updates, which will be released within 2 weeks (in March 2017). That means we could see huge changes in just about every aspect at that early date. You can get notified when they're ready with each update release! If you do end up switching over from Windows 8 or XOS 9 though... well then I guess your future has been sealed forevermore….\n\n## Final Thoughts\n\n, with no link to source , are not posted on your blog or website . Your readers may have seen them but do they know how important it is? It doesn't matter if you're promoting something new and exciting; those articles could also be found in one of the big newspapers--they just won \"The New York Times\" (or all three) as an example! Here's what I recommend: Include at least two links from relevant sources within each page title so these can jump straight into.\n\n**Tags:** #overhaul, #implementation, #seattle, #infrastructure, #project\n\n**Reading time:** 1 minute\n\n---\n\n*Did you find this article helpful? Share it with your network!*\n",
+  "metadata": {
+    "style": "blog",
+    "category": "Politics",
+    "location": "Seattle",
+    "word_count": 320,
+    "generated_at": "2025-06-27T21:56:03.729910",
+    "fact_check_score": {
+      "overall_score": 84,
+      "credibility_score": 100,
+      "objectivity_score": 100,
+      "source_attribution_score": 50,
+      "fact_consistency_score": 85,
+      "issues": [],
+      "recommendations": [
+        "Add more specific source attributions. Use names, titles, and organizations when possible."
+      ],
+      "verified_claims": [
+        {
+          "type": "date",
+          "content": "June 27, 2025",
+          "verifiable": true,
+          "confidence": "high"
+        },
+        {
+          "type": "quote",
+          "content": "\"soon\"",
+          "verifiable": false,
+          "confidence": "low"
+        },
+        {
+          "type": "quote",
+          "content": "\"The New York Times\"",
+          "verifiable": false,
+          "confidence": "low"
+        }
+      ],
+      "flagged_content": [],
+      "timestamp": "2025-06-27T21:56:03.722906"
+    },
+    "quality_score": {
+      "overall_score": 0,
+      "category_scores": {
+        "writing_quality": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "accuracy": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "structure": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        },
+        "variety": {
+          "score": 0,
+          "details": "Error: 'str' object has no attribute 'get'"
+        }
+      },
+      "detailed_metrics": {},
+      "recommendations": [
+        "Fix evaluation error and retry assessment"
+      ],
+      "strengths": [],
+      "areas_for_improvement": [
+        "Address technical evaluation issues"
+      ],
+      "professional_rating": "Assessment Failed"
+    },
+    "style_compliance": 100
+  }
+}

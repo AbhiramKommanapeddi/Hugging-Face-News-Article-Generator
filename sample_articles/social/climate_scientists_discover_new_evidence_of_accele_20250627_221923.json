@@ -1,0 +1,26 @@
+{
+  "id": "article_003",
+  "headline": "Climate Scientists Discover New Evidence of Accelerated Melting",
+  "content": "Climate Scientists Discover New Evidence of Accelerated Melting\n\n#multiple #scientists\n\n#News #Breaking",
+  "metadata": {
+    "style": "social",
+    "category": "Environment",
+    "location": "Boston",
+    "word_count": 12,
+    "generated_at": "2025-06-27T22:19:23.132415",
+    "fact_check_score": {
+      "overall_score": 89,
+      "credibility_score": 100,
+      "objectivity_score": 100,
+      "source_attribution_score": 70,
+      "fact_consistency_score": 85,
+      "issues": [],
+      "recommendations": [],
+      "verified_claims": [],
+      "flagged_content": [],
+      "timestamp": "2025-06-27T22:19:23.107423"
+    },
+    "quality_score": 0,
+    "style_compliance": 100
+  }
+}

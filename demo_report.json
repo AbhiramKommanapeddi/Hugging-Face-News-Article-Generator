@@ -1,0 +1,59 @@
+{
+  "demo_timestamp": "2025-06-27T21:15:22.841729",
+  "total_articles_generated": 4,
+  "styles_demonstrated": [],
+  "overall_metrics": {
+    "total_word_count": 1186,
+    "average_word_count": 296.5,
+    "average_fact_check_score": 79.2,
+    "average_quality_score": 69.8,
+    "average_style_score": 100.0
+  },
+  "articles_summary": [
+    {
+      "index": 1,
+      "headline": "Major Tech Company Announces Revolutionary AI Breakthrough",
+      "style": "unknown",
+      "category": "Technology",
+      "word_count": 434,
+      "fact_check_score": 76,
+      "quality_score": 67,
+      "style_compliance_score": 100
+    },
+    {
+      "index": 2,
+      "headline": "Local School District Implements Innovative STEM Program",
+      "style": "unknown",
+      "category": "Education",
+      "word_count": 451,
+      "fact_check_score": 78,
+      "quality_score": 71,
+      "style_compliance_score": 100
+    },
+    {
+      "index": 3,
+      "headline": "Climate Change Study Reveals Alarming Arctic Ice Loss",
+      "style": "unknown",
+      "category": "Environment",
+      "word_count": 49,
+      "fact_check_score": 82,
+      "quality_score": 73,
+      "style_compliance_score": 100
+    },
+    {
+      "index": 4,
+      "headline": "Professional Basketball Team Trades Star Player",
+      "style": "unknown",
+      "category": "Sports",
+      "word_count": 252,
+      "fact_check_score": 81,
+      "quality_score": 68,
+      "style_compliance_score": 100
+    }
+  ],
+  "performance_analysis": {
+    "highest_quality_article": "Climate Change Study Reveals Alarming Arctic Ice Loss",
+    "most_fact_compliant": "Climate Change Study Reveals Alarming Arctic Ice Loss",
+    "best_style_compliance": "Major Tech Company Announces Revolutionary AI Breakthrough"
+  }
+}

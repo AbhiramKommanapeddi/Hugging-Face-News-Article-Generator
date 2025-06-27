@@ -1,0 +1,35 @@
+{
+  "id": "article_015",
+  "headline": "Transportation Authority Launches Revolutionary Public Transit",
+  "content": "Transportation Authority Launches Revolutionary Public Transit\n\n#multiple #launches\n\n#News #Breaking",
+  "metadata": {
+    "style": "social",
+    "category": "Health",
+    "location": "Los Angeles",
+    "word_count": 10,
+    "generated_at": "2025-06-27T22:38:54.716603",
+    "fact_check_score": {
+      "overall_score": 84,
+      "credibility_score": 100,
+      "objectivity_score": 85,
+      "source_attribution_score": 70,
+      "fact_consistency_score": 85,
+      "issues": [],
+      "recommendations": [],
+      "verified_claims": [],
+      "flagged_content": [
+        {
+          "type": "bias_indicator",
+          "subtype": "strongly_positive",
+          "content": "Revolutionary",
+          "position": 34,
+          "severity": "high",
+          "suggestion": "use more neutral language"
+        }
+      ],
+      "timestamp": "2025-06-27T22:38:54.710599"
+    },
+    "quality_score": 0,
+    "style_compliance": 100
+  }
+}
